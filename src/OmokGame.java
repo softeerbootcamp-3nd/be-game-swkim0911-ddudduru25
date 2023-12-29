@@ -147,6 +147,7 @@ public class OmokGame {
         if(cnt1 == 5){
             return true;
         }
+        
 
         //세로
         int cnt2 = 0;
